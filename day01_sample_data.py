@@ -1,3 +1,9 @@
+# ==========================================
+# Topic   : Python sample_data
+# Author  : Garikina Babji
+# Purpose : Practice for GCP Data Engineering
+# ==========================================
+
 emp_id = 101
 emp_name = "Babji"
 designation = "Software Engineer"
