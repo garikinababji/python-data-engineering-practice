@@ -1,3 +1,9 @@
+# ==========================================
+# Topic   : Python CSV files_processing
+# Author  : Garikina Babji
+# Purpose : Practice for GCP Data Engineering
+# ==========================================
+
 files = [
     "customers.csv",
     "orders.csv",
