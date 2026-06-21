@@ -1,6 +1,8 @@
-# Topic: Python Lists
+=============================================
+# Topic: Python comparison
 # Author: Garikina Babji
 # Purpose: Practice for GCP Data Engineering
+=============================================
 
 
 age = 25
