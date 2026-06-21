@@ -1,5 +1,5 @@
 =============================================
-# Topic: Python lists_tupples_sets
+# Topic: Python lists_tuples_sets
 # Author: Garikina Babji
 # Purpose: Practice for GCP Data Engineering
 =============================================
