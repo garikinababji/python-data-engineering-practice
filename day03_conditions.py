@@ -1,5 +1,10 @@
-
+=============================================
+# Topic: Python conditions
+# Author: Garikina Babji
+# Purpose: Practice for GCP Data Engineering
+=============================================
 # Conditional Statements in Python
+# Task 1
 marks = 75
 
 if marks >= 35:
@@ -7,7 +12,7 @@ if marks >= 35:
 else:
     print("Fail")
 
-
+# Task 2
 score = int(input("Enter your score: "))
 
 if score >= 90:
@@ -19,6 +24,7 @@ else:
 
 
 #age check
+# Task 3
 
 age = int(input("Enter your age: "))
 
@@ -27,7 +33,7 @@ if age >= 18:
 else:
     print("Not Eligible")
 
-
+# Task 4
 # bigquery file size check
 
 file_size_mb = 120
@@ -37,7 +43,7 @@ if file_size_mb > 100:
 else:
     print("Process normally")
 
-
+# Task 5
 #vote eligibility
 
 age=20
@@ -47,6 +53,7 @@ else:
 	print("Not Eligible")
 
  # test marks   
+# Task 6
 
 m=int(input("Enter Marks: "))
 if m>100:
@@ -60,7 +67,7 @@ elif m<=74 and m>=50:
 else:
 	print("Fail")
 
-# task 1
+# Task 7
 
 employee = {
 "emp_id": 101,
