@@ -2,9 +2,9 @@
 Python practice programs and GCP Data Engineering learning journey with hands-on examples.
 # Python & GCP Data Engineering Practice
 
-Hi, I'm Babji.
+Hi, I'm Garikina Babji.
+This repository documents my hands-on learning journey in Python, SQL, ETL concepts, and Google Cloud Platform (GCP) Data Engineering through practical exercises and mini projects.
 
-This repository contains my hands-on practice while learning:
 - Python
 - SQL
 - ETL Concepts
