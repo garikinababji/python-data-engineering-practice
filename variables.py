@@ -1,4 +1,6 @@
-
+# Topic: Python Lists
+# Author: Garikina Babji
+# Purpose: Practice for GCP Data Engineering
 
 name = input("Enter Your Name:" )
 print("Welcome to", name )
