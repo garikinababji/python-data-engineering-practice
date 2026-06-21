@@ -1,4 +1,8 @@
-
+# ==========================================
+# Topic   : Python employee
+# Author  : Garikina Babji
+# Purpose : Practice for GCP Data Engineering
+# ==========================================
 
 employee = {
     "emp_id": 101,
