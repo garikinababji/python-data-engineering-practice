@@ -1,6 +1,8 @@
-# Topic: Python Lists
-# Author: Garikina Babji
-# Purpose: Practice for GCP Data Engineering
+# ==========================================
+# Topic   : Python Variables
+# Author  : Garikina Babji
+# Purpose : Practice for GCP Data Engineering
+# ==========================================
 
 name = input("Enter Your Name:" )
 print("Welcome to", name )
