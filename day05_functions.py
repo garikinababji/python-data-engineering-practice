@@ -1,3 +1,8 @@
+=============================================
+# Topic: Python functions
+# Author: Garikina Babji
+# Purpose: Practice for GCP Data Engineering
+=============================================
 
 # Task 1: Create a function called welcome that takes a name as an argument and prints a welcome message with that name.
 
