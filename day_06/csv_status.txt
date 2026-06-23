@@ -1,0 +1,4 @@
+id,name,status
+101,Ravi,Active
+102,Sita,Inactive
+103,Babji,Active
