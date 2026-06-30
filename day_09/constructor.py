@@ -1,3 +1,9 @@
+=============================================
+# Topic:  constructor
+# Author: Garikina Babji
+# Purpose: Practice for GCP Data Engineering
+=============================================
+
 # Constructor in Python
 
 class Customer:
