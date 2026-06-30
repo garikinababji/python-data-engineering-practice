@@ -1,3 +1,9 @@
+=============================================
+# Topic:  list_comprehension
+# Author: Garikina Babji
+# Purpose: Practice for GCP Data Engineering
+=============================================
+
 # List Comprehension
 
 
