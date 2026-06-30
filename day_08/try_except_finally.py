@@ -1,4 +1,8 @@
-
+=============================================
+# Topic:  try_except_finally
+# Author: Garikina Babji
+# Purpose: Practice for GCP Data Engineering
+=============================================
 
 # Task 1 
 
