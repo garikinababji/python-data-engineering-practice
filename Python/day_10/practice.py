@@ -1,3 +1,11 @@
+=============================================
+# Topic:  practice
+# Author: Garikina Babji
+# Purpose: Practice for GCP Data Engineering
+=============================================
+
+
+
 # This is a simple Python code that creates a list of numbers from 1 to 10 and then uses a list comprehension to filter and print the numbers that are in the range from 1 to 10.
 
 from os import name
