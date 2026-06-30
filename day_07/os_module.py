@@ -1,3 +1,10 @@
+=============================================
+# Topic:  os_module
+# Author: Garikina Babji
+# Purpose: Practice for GCP Data Engineering
+=============================================
+
+
 import os
 
 print(os.getcwd())
