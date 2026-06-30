@@ -1,3 +1,10 @@
+=============================================
+# Topic:  with_statement_practice
+# Author: Garikina Babji
+# Purpose: Practice for GCP Data Engineering
+=============================================
+
+
 file = open("D:\\GCP_2026\\practice\\sample.txt", "r")
 
 content = file.read()
