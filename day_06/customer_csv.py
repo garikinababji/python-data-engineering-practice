@@ -1,4 +1,8 @@
-
+=============================================
+# Topic:  customer_csv
+# Author: Garikina Babji
+# Purpose: Practice for GCP Data Engineering
+=============================================
 
 
 import csv
