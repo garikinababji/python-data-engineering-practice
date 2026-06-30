@@ -1,3 +1,10 @@
+=============================================
+# Topic:  Exception Handling
+# Author: Garikina Babji
+# Purpose: Practice for GCP Data Engineering
+=============================================
+
+
 def is_valid_salary(salary):
     return salary >= 50000
 
