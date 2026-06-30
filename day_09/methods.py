@@ -1,3 +1,9 @@
+=============================================
+# Topic:   __init__
+# Author: Garikina Babji
+# Purpose: Practice for GCP Data Engineering
+=============================================
+
 class Customer:
 
     def __init__(self, name):
