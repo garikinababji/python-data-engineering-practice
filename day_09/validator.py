@@ -1,3 +1,10 @@
+=============================================
+# Topic:  validator
+# Author: Garikina Babji
+# Purpose: Practice for GCP Data Engineering
+=============================================
+
+
 
 # Real-Time GCP Example  Imagine Customer Validator
 
