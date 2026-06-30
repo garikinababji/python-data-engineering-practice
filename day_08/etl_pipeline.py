@@ -1,3 +1,9 @@
+=============================================
+# Topic:  etl_pipeline
+# Author: Garikina Babji
+# Purpose: Practice for GCP Data Engineering
+=============================================
+
 import csv
 
 try:
