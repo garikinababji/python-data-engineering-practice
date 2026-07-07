@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Ravi",
+        "status": "Active",
+        "salary": 30000
+    },
+    {
+        "id": 2,
+        "name": "Sita",
+        "status": "Inactive",
+        "salary": 45000
+    },
+    {
+        "id": 3,
+        "name": "Babji",
+        "status": "Active",
+        "salary": 60000
+    },
+    {
+        "id": 4,
+        "name": "Anil",
+        "status": "Active",
+        "salary": 55000
+    }
+]
